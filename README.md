@@ -1,1 +1,1 @@
-# python-project
+BANK LOAN CASE STUDY (FINAL PROJECT 2)
